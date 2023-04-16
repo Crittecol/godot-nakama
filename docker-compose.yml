@@ -35,7 +35,7 @@ services:
       postgres:
         condition: service_healthy
     volumes:
-      - /c/Users/Colin/projects/docker:/nakama/data
+      - data:/var/lib/postgresql/data
     expose:
       - "7349"
       - "7350"
