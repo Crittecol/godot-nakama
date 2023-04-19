@@ -1,0 +1,17 @@
+name: nakama1
+socket:
+  server_key: "jcwgSpGCqZG57p4NXQpZsn94NkT79tGX"
+
+session:
+  token_expiry_sec: 21600
+  encryption_key: "48SRJ4AQy4wWLQt5YtbTRmyWcBXtVZwN"
+  refresh_encryption_key: "DxrTYhmrrcm69x9umgztVKmHgfbLcZm8"
+
+runtime:
+  http_key: "PGG2fYvniT2LxnYg3au9eDj5cSoaVbgv"
+
+console:
+  username: "adminuser"
+  password: "adminpass"
+ 
+  signing_key: "RqnaUWD7wH4tDxQgUsVbqtJnPet4CJjx"
